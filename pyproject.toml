@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "kylie-bee-private-shared-code"
+version = "0.1.0"
+description = "A private shared code repository configured using poetry"
+authors = ["Kylie McNaughton <kylieblake@robocorp.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+robocorp = "^2.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
