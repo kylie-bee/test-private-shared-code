@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: kylie-bee-private-shared-code
+Version: 0.1.0
+Summary: Testing installation of Package
+Home-page: https://github.com/kylie-bee/test-private-shared-code
+Author: Kylie McNaughton
+Author-email: kylie@sema4.ai
+License: UNKNOWN
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+
+# Example private shared code
+
+This is an example of a private shared code repository. This repository is private and can only be accessed by users who have been given access by the owner.
+
